@@ -1,2 +1,2 @@
-# mistermax.com.ua
-This is file functions.php for website mistermax.com.ua
+# pryaniki-ot-enota.kiev.ua
+This is file functions.php for pryaniki-ot-enota.kiev.ua
