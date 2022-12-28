@@ -302,18 +302,6 @@ $items .= '<li class = "search-field">' . $searchform . '</li>';
 return $items;
 }
 
-*/
-// menu-search-form.
-/*
-function add_search_to_wp_menu ( $items, $args ) {
-	if( 'menu-1' === $args -> theme_location ) {
-	$items .= '<li class="menu-item menu-item-search">';
-	$items .= '<form method="get" class="menu-search-form" action="' . get_bloginfo('home') . '/"><p><input class="text" type="text" value="Кто Ищет, Тот Найдет !" name="s" id="s" onfocus="if (this.value == \'Кто Ищет, Тот Найдет !\') {this.value = \'\';}" onblur="if (this.value == \'\') {this.value = \'Кто Ищет, Тот Найдет !\';}" /></p></form>';
-	$items .= '</li>';
-	}
-	return $items;
-	}
-	add_filter('wp_nav_menu_items','add_search_to_wp_menu',10,2);
-*/
+
 
 
